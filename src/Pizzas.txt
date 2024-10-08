@@ -1,0 +1,24 @@
+3	Margherita	10
+3	Margherita	10 
+3	Pepperoni	15
+3	Pepperoni	15  
+3	Hawaiian	12
+3	Veggie	8
+3	Four Cheese	7
+1	Pepperoni	15	Pepperoni	3
+1	Pepperoni	15	Pepperoni	3  
+1	Hawaiian	12	Pineapple	4
+1	Veggie	8	Olive	2
+1	BBQ Chicken	10	BBQ Sauce	3
+2	Cheese Stuffed	8	true	5
+2	Cheese Stuffed	8	true	5  
+2	Meat Lover Stuffed	10	true	7
+2	Veggie Stuffed	8	false	4
+2	Bacon Deluxe	6	true	6
+3	Supreme	10
+3	BBQ Chicken	9
+1	Mushroom	8	Mushroom	5
+2	Garlic Chicken	5	true	2
+2	Margherita Stuffed	15	false	6
+1	Sausage	10	Sausage	4
+3	Detroit Style	11
